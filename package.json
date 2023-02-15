@@ -1,15 +1,22 @@
 {
   "name": "vben3stu",
-  "private": true,
   "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
+  "private": true,
+  "homepage": "",
+  "bugs": {},
+  "repository": {},
+  "license": "MIT",
+  "author": {
+    "name": "QianZW",
+    "email": ""
   },
+  "scripts": {},
+  "resolutions": {},
   "devDependencies": {
-    "typescript": "^4.9.3",
-    "vite": "^4.1.0"
-  }
+    "@changesets/cli": "^2.26.0"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "packageManager": "pnpm@7.1.0"
 }
